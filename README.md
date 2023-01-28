@@ -1,2 +1,2 @@
 # CHAT-GPT-CRAWLER-ENGINE
-CHATGPT HELPS USERS TO ADD A TOUCH OF ELEGANCE TO THEIR WRITING STYLE AND ACHIEVE THEIR LITERARY GOALS. AND AN OPEN AI WEBPAGE THAT USES OPENAI API KEY TO DISPLAY THE RESULT ON USER REQUEST, AND CONNECTED SERVER TO CLIENT SIDE FOR SMOOTH FUNCTIONING OF THE APPLICATION.
+Chatgpt helps users to add a touch of elegance to their writing style and achieve their literary goals. And an open ai webpage that uses openai api key to display the result on user request, and connected server to client side for smooth functioning of the application.
